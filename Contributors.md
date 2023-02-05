@@ -2128,4 +2128,4 @@ Ayan Das
 - [Shivam-jhod](https://github.com/shivvvuu)
 - [Damien Switzer](https://github.com/ThePinkFedora)
 - [Shize Gong](https://github.com/lzeee)
-- [Tharun Suresh](https://github.com/tharunsuresh-code) 
+- [Tharun Suresh](https://github.com/tharunsuresh-code)
